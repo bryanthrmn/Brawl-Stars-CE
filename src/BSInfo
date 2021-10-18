@@ -68,19 +68,19 @@ Menu("   BRAWLERS SUPER RARES   ","Ricochet",17,"Darryl",18,"Penny",19,"Carl",20
 
 Lbl E
 EffÉcran
-Menu("     BRAWLERS ÉPIQUES     ","Polly",22,"Pam",23,"Franck",24,"Billie",25,"Bea",26,"Nani",27,"Edgar",28,"MENU BRAWLERS",BR
+Menu("     BRAWLERS ÉPIQUES     ","Polly",22,"Pam",23,"Franck",24,"Billie",25,"Bea",26,"Nani",27,"Edgar",28,"Griff",29,"MENU BRAWLERS",BR
 
 Lbl M
 EffÉcran
-Menu("    BRAWLERS MYTHIQUES    ","Mortis",29,"Tara",30,"Djinn",31,"Max",32,"Monsieur M",33,"Wally",34,"Byron",35,"Squeak",36,"MENU BRAWLERS",BR
+Menu("    BRAWLERS MYTHIQUES    ","Mortis",30,"Tara",31,"Djinn",32,"Max",33,"Monsieur M",34,"Wally",35,"Byron",36,"Squeak",37,"MENU BRAWLERS",BR
 
 Lbl L
 EffÉcran
-Menu("   BRAWLERS LÉGENDAIRES   ","Spike",37,"Léon",38,"Émeri",39,"Corbac",40,"Ambre",41,"MENU BRAWLERS",BR
+Menu("   BRAWLERS LÉGENDAIRES   ","Spike",37,"Léon",38,"Émeri",39,"Corbac",40,"Ambre",41,"Meg",42,"MENU BRAWLERS",BR
 
 Lbl CR
 EffÉcran
-Menu("   BRAWLERS CHROMATIQUES  ","Gael",42,"Surge",43,"Colette",44,"Lou",45,"Colonel Médor",46,"Belle",47,"MENU BRAWLERS",BR
+Menu("   BRAWLERS CHROMATIQUES  ","Gael",43,"Surge",44,"Colette",45,"Lou",46,"Colonel Médor",47,"Belle",48,"Buzz",49,"Ash",50,"MENU BRAWLERS",BR
 
 Lbl AU
 EffDess
