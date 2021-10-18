@@ -56,7 +56,7 @@ Menu(" BRAWLERS RÉCOMPENSES 1/2 ","Shelly",01,"Nita",02,"Colt",03,"Bull",04,"Je
 
 Lbl C2
 EffÉcran
-Menu(" BRAWLERS RECOMPENSES 2/2 ","BO",08,"Tick",09,"A.R.K.A.D.",10,"Éliza",11,"Stu",12,"RETOUR",C,"MENU BRAWLERS",BR
+Menu(" BRAWLERS RECOMPENSES 2/2 ","Bo",08,"Tick",09,"A.R.K.A.D.",10,"Éliza",11,"Stu",12,"RETOUR",C,"MENU BRAWLERS",BR
 
 Lbl R
 EffÉcran
