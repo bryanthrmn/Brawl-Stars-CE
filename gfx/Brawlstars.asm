@@ -213,3 +213,8 @@ _Brawlstars_pal:
  dw 07F44h ; 207 :: rgba(255,211,37,255)
  dw 0F5C5h ; 208 :: rgba(239,117,39,255)
  dw 02103h ; 209 :: rgba(69,63,27,255)
+
+        public ___description
+___description:
+	       db	"Brawl Stars pour CE", 0
+___prgm_init:
