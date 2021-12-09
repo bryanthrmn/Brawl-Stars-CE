@@ -150,16 +150,16 @@ Texte(150,10,"8-9
 CouleurTexte(13
 Texte(17,60,"Points de pouvoir
 Texte(34,100,"20
-Texte(50,100,"35
-Texte(67,100,"...
-Texte(83,100,"...
+Texte(50,100,"30
+Texte(67,100,"50
+Texte(83,100,"80
 Texte(100,100,"130
-Texte(116,100,"...
-Texte(132,100,"...
-Texte(150,100,"...
+Texte(116,100,"210
+Texte(132,100,"340
+Texte(150,100,"550
 CouleurTexte(15
 Texte(17,200,"Pièces
-Texte(34,200,"25
+Texte(34,200,"20
 Texte(50,200,"35
 Texte(67,200,"75
 Texte(83,200,"140
@@ -178,12 +178,12 @@ Texte(17,10,"9-10
 Texte(34,10,"10-11
 CouleurTexte(13
 Texte(1,60,"Points de pouvoir
-Texte(17,100,"...
-Texte(34,100,"...
+Texte(17,100,"890
+Texte(34,100,"1400
 CouleurTexte(15
 Texte(1,200,"Pièces
-Texte(17,200,"...
-Texte(34,200,"...
+Texte(17,200,"1875
+Texte(34,200,"2800
 CouleurTexte(11
 Texte(70,5,"Gadgets Pouvoirs star Equipements
 Ligne(­9.9,­0.5,9.5,­0.5,11
