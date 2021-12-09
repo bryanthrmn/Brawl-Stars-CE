@@ -53,7 +53,7 @@ Menu("   BRAWLERS SUPER RARES   ","Ricochet",17,"Darryl",18,"Penny",19,"Carl",20
 
 Lbl E
 EffÉcran
-Menu("     BRAWLERS ÉPIQUES     ","Polly",22,"Pam",23,"Franck",24,"Billie",25,"Béa",26,"Nani",27,"Edgar",28,"Griff",29,"MENU BRAWLERS",BR
+Menu("     BRAWLERS ÉPIQUES     ","Polly",22,"Pam",23,"Frank",24,"Billie",25,"Béa",26,"Nani",27,"Edgar",28,"Griff",29,"MENU BRAWLERS",BR
 
 Lbl M
 EffÉcran
@@ -928,14 +928,19 @@ EffDess
 CouleurTexte(13
 Texte(0,40,"Edgar
 Texte(20,0,"Assassain furtif
-Texte(40,0,"Lui, c'est un mauvais garçon.
-Texte(55,0,"Mais il aime aussi le parkour.
+Texte(40,0,"Alors lui, c'est un mauvais garçon!
+Texte(55,0,"Sinon il aime aussi le parkour.
 Pause 
 EffDess
 RappelPic 1
 Texte(0,120,"EDGAR
-Texte(25,0,"3920 PV
-Texte(100,10,"756*2
+Texte(25,0,"4200 PV
+Texte(80,0,"Bagarreur :
+Texte(100,20,"Edgar frappe les
+Texte(120,20,"ennemis avec des
+Texte(140,20,"coups de poings
+Texte(160,20,"qui le soigne
+Texte(180,20,"810*2 (25% PV)
 Texte(80,145,"Emmagasinage : 
 Texte(100,145,"Edgar saute et
 Texte(120,145,"obtient un boost
@@ -943,13 +948,27 @@ Texte(140,145,"de vitesse (5 sec)
 Pause 
 EffDess
 Texte(­1,0,10,"Pouvoirs star
-Texte(20,0,"1. Atterissage contrôlé : 
-Texte(40,0,"2. Rififi : 
-Pause 
+Texte(20,0,"1. Atterissage contrôlé :
+Texte(20,20,"Le super d'Edgar inflige
+Texte(20,40,"1000 points de dégâts aux
+Texte(20,60,"ennemis proches lorsqu'il
+Texte(20,80,"atterit après un saut
+Texte(40,0,"2. Rififi :
+Texte(40,20,"Edgar se soigne pour 25%
+Texte(40,40,"des dégâts qu'il inflige
+Pause
 EffDess
 Texte(­1,0,10,"Gadgets
-Texte(20,0,"1. Chargeur à induction : recharge
-Texte(40,0,"son super 525 % plus vite (5sec)
+Texte(20,0,"1. Chargeur induction : 
+Texte(40,0,"Le super d'Edgar recharge
+Texte(60,0,"525% plus vite (5secs)
+Texte(40,20,"2. Proctections :
+Texte(40,40,"Edgar reçoit un
+Texte(40,60,"bouclier qui bloque
+Texte(40,80,"jusqu'à 2000 points
+Texte(40,100,"de dégâts (il
+Texte(40,120,"s'affaiblit
+Texte(40,140,"avec le temps)
 Pause 
 Goto E
 
