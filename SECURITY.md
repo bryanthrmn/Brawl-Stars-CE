@@ -46,5 +46,4 @@ The latest OS of the TI-83 Premium CE is 5.7.0.
 By members on Tiplanet.org
 Authors : Lil Nas X3009 and Shadow
 
-If you have any suggestions, please contact us via : pcmbruley@gmail.com
-If you have any bug report, please mail : Bryankaveen14@gmail.com
+If you have any suggestions or bug report, please contact us via : Bryankaveen14@gmail.com
