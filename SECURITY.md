@@ -38,7 +38,7 @@ The latest OS of the TI-83 Premium CE is 5.7.0.
 
 
 ## Reporting a Vulnerability
-																			-Brawl Stars CE-
+								-Brawl Stars CE-
 
 By members on https://tiplanet.org
 Authors : Lil Nas X3009 and Shadow
