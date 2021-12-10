@@ -33,7 +33,8 @@ If you are on one of the restricted versions, you can still execute these type o
     >>then preferably install Cesium to be able to launch ASM programs more easily, or even AsmHook to be able to launch them as before
     
 A tutorial is available here (french) : https://tiplanet.org/forum/viewtopic.php?f=63&t=25252 
-The most recent OS of the TI-83 Premium CE is 5.7.0.
+
+The latest OS of the TI-83 Premium CE is 5.7.0.
 
 
 
