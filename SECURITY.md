@@ -30,9 +30,8 @@ To know the version (OS) of your calculator, do the following:
 
 If you are on one of the restricted versions, you can still execute these type of progams. Indeed, you will need to :
 
-    >>install arTIfiCE to put back the possibility to launch ASM programs
-    
-    >>then preferably install Cesium to be able to launch ASM programs more easily, or even AsmHook to be able to launch them as before
+    >> install arTIfiCE to put back the possibility to launch ASM programs
+    >> then preferably install Cesium to be able to launch ASM programs more easily, or even AsmHook to be able to launch them as before
     
 A tutorial is available here (french) : https://tiplanet.org/forum/viewtopic.php?f=63&t=25252 
 
