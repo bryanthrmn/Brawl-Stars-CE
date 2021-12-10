@@ -3,6 +3,7 @@ For security reasons, Brawl Stars CE won't be able to be edited via your calcula
 In no case authors of the program will be responsible for problems of the calculator if any user violates the security policy.
 
 
+
 ## Supported Versions
 
 TI-83 Premium CE / TI-84 Plus CE OS versions that are
@@ -15,6 +16,7 @@ currently being supported with this project (security updates) :
 | 5.5.0   | :white_check_mark: |
 | 5.6.1   | :white_check_mark: |
 | 5.7.0   | :white_check_mark: |
+
 
 
 Beware of OS > 5.5 !
@@ -32,6 +34,7 @@ If you are on one of the restricted versions, you can still execute these type o
     
 A tutorial is available here (french) : https://tiplanet.org/forum/viewtopic.php?f=63&t=25252 
 The most recent OS of the TI-83 Premium CE is 5.7.0.
+
 
 
 
