@@ -4,6 +4,8 @@ In no case authors of the program will be responsible for problems of the calcul
 
 
 
+
+
 ## Supported Versions
 
 TI-83 Premium CE / TI-84 Plus CE OS versions that are
@@ -24,8 +26,8 @@ Beware of OS > 5.5 !
 Many programs, such as Oiram CE, Geometry CE and more are written in ASM/C or ICE
 However, due to an irresponsible act of a Mathematics teacher, Texas Instruments reacted by removing the management of such programs since the 5.5.1 update.
 
-To know the version (OS) of your calculator, do the following:
-"2nd" then "+" then "1" (about); what is written below "TI-83 Premium CE" matches to the OS of your calculator.
+To know the version (OS) of your calculator, do the following :
+    >>"2nd" then "+" then "1" (about); what is written below "TI-83 Premium CE" matches to the OS of your calculator.
 
 
 If you are on one of the restricted versions, you can still execute these type of progams. Indeed, you will need to :
@@ -36,6 +38,8 @@ If you are on one of the restricted versions, you can still execute these type o
 A tutorial is available here (french) : https://tiplanet.org/forum/viewtopic.php?f=63&t=25252 
 
 The latest OS of the TI-83 Premium CE is 5.7.0.
+
+
 
 
 
