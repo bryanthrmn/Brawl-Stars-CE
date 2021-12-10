@@ -1,15 +1,13 @@
 :DCS
-"1111114444422222444441111112222249999444444222224944944444422222499994555542222249449454444222224999945555422222444444444542222244444455554222221111114444422222444441111112222244444444444222224444444444422222666666666666666666666666666666666666666666666666"
-CouleurBord 3:QuadNAff:FoncNAff :EffÉcran:AxesNAff:ArrPlanAff 0:ZStandard:EffDess
-CouleurTexte(13
-Texte(150,60,"BRAWL STARS
-CouleurTexte(12
-Texte(150,170,"Annul:QUIT
+"AAAAAAAAAAAAAAAAA33333333333333AA3AAAAAAAAAAAA3AA3AAAAAAAAAAAA3AA3A333AAAA333A3AA3A3F3AAAA3F3A3AA3A333AAAA333A3AA3AAAAAAAAAAAA3AA3AAAAA33AAAAA3AA3AAAAA33AAAAA3AA3333AAAAAA3333AAAAA3AAAAAA3AAAAAAAA3A3AA3A3AAAAAAAA3A3AA3A3AAAAAAAA33333333AAAAAAAAAAAAAAAAAAAA"
+CouleurBord 3:QuadNAff:FoncNAff :EffÉcran:AxesNAff:ArrPlanAff 1:ZStandard:EffDess
 0→A
-While A≠101
+Xmin→X
+While X≠10.2
 CouleurTexte(10
-Texte(150,0,A,"%
-Wait 0.03
+Ligne(Xmin,Ymin,X,Ymin,BLANC
+Ligne(Xmin,­9.9,X,­9.9,BLANC
+X+0.2→X
 0→Y
 getKey→Y
 If Y=45:Then:EffDess:EffÉcran:ArrPlanNAff:Stop
@@ -65,7 +63,7 @@ Menu("   BRAWLERS LÉGENDAIRES   ","Spike",38,"Léon",39,"Émeri",40,"Corbac",41
 
 Lbl C1
 EffÉcran
-Menu("BRAWLERS CHROMATIQUES 1/2 ","Gaël",44,"Surge",45,"Colette",46,"Lou",47,"Colonel Médor",48,"Belle",49,"Buzz",50,"Ash",51,"MENU BRAWLERS",BR
+Menu("BRAWLERS CHROMATIQUES 1/2 ","Gaël",44,"Surge",45,"Colette",46,"Lou",47,"Colonel Médor",48,"Belle",49,"Buzz",50,"PLUS",C2,"MENU BRAWLERS",BR
 Lbl C2
 EffÉcran
 Menu("BRAWLERS CHROMATIQUES 2/2 ","Ash",51,"",52,"RETOUR",C1,"MENU BRAWLERS",BR
@@ -77,13 +75,13 @@ Texte(0,100,"Brawl Stars
 Ligne(­2.5,8.2,4,8.2,ROUGE
 CouleurTexte(10
 Texte(30,0,"Par LIL NAS X3009
-Texte(45,0,"V1.1
-Texte(60,0,"2 Décembre 2021
+Texte(45,0,"V1.2
+Texte(60,0,"11 Décembre 2021
 CouleurTexte(14
 Texte(80,0,"Merci à Shadow à qui je dois les
 Texte(95,0,"informations des brawlers
 CouleurTexte(23
-Texte(120,0,"Image : Edgar (par Shadow)
+Texte(120,0,"Image : Saison 9
 CouleurTexte(19
 Texte(150,0,"pcmbruley@gmail.com
 Pause 
@@ -234,12 +232,14 @@ EnrPic 1
 CouleurTexte(18
 Texte(0,120,"SHELLY
 Texte(25,0,"5320 PV
-Texte(80,10,"....
-Texte(80,150,"Chevrottine
+Texte(80,10,"Chevrottine
+Texte(80,150,"Super Chevrottine
 Texte(100,150,"
 Pause 
 EffDess
 Texte(­1,0,10,"Pouvoirs star
+Texte(20,0,"1.
+Texte(40,0,"2.
 Pause 
 EffDess
 Texte(­1,0,10,"Gadgets
@@ -564,10 +564,11 @@ RappelPic 1
 Texte(0,120,"BARTABA
 Texte(25,0,"3320 PV
 Texte(100,10,"980
-Texte(80,150,"Même attaque
-Texte(100,150,"à 5 endroits
-Texte(120,150,"différents
-Texte(140,150,"980
+Texte(80,140,"Tournée générale
+Texte(95,150,"Même attaque
+Texte(110,150,"à 5 endroits
+Texte(125,150,"différents
+Texte(140,150,"980 dégats
 Pause 
 EffDess
 Texte(­1,0,10,"Pouvoirs star
@@ -815,13 +816,13 @@ Goto E
 Lbl 24
 EffDess
 CouleurTexte(13
-Texte(­1,0,40,"Franck
+Texte(­1,0,40,"Frank
 Texte(20,0,"poids lourd
 Texte(40,0,"
 Pause 
 EffDess
 RappelPic 1
-Texte(0,120,"FRANCK
+Texte(0,120,"FRANK
 Texte(25,0,".... PV
 Texte(80,10,"....
 Texte(80,150,"immobilise ses
@@ -926,7 +927,7 @@ Goto E
 Lbl 28
 EffDess
 CouleurTexte(13
-Texte(0,40,"Edgar
+Texte(­1,0,40,"Edgar
 Texte(20,0,"Assassain furtif
 Texte(40,0,"Alors lui, c'est un mauvais garçon!
 Texte(55,0,"Sinon il aime aussi le parkour.
@@ -935,40 +936,36 @@ EffDess
 RappelPic 1
 Texte(0,120,"EDGAR
 Texte(25,0,"4200 PV
-Texte(80,0,"Bagarreur :
-Texte(100,20,"Edgar frappe les
-Texte(120,20,"ennemis avec des
-Texte(140,20,"coups de poings
-Texte(160,20,"qui le soigne
-Texte(180,20,"810*2 (25% PV)
-Texte(80,145,"Emmagasinage : 
-Texte(100,145,"Edgar saute et
-Texte(120,145,"obtient un boost
-Texte(140,145,"de vitesse (5 sec)
+Texte(70,0,"Bagarreur :
+Texte(85,0,"Edgar frappe les
+Texte(100,0,"ennemis avec des
+Texte(115,0,"coups de poings
+Texte(130,0,"qui le soigne
+Texte(145,0,"810*2 (25% PV)
+Texte(70,140,"Emmagasinage : 
+Texte(85,140,"Edgar saute et
+Texte(100,140,"obtient un boost
+Texte(115,140,"de vitesse (5 sec)
 Pause 
 EffDess
 Texte(­1,0,10,"Pouvoirs star
 Texte(20,0,"1. Atterissage contrôlé :
-Texte(20,20,"Le super d'Edgar inflige
-Texte(20,40,"1000 points de dégâts aux
-Texte(20,60,"ennemis proches lorsqu'il
-Texte(20,80,"atterit après un saut
-Texte(40,0,"2. Rififi :
-Texte(40,20,"Edgar se soigne pour 25%
-Texte(40,40,"des dégâts qu'il inflige
-Pause
+Texte(35,0,"Le super d'Edgar inflige 1000 points
+Texte(50,0,"de dégâts aux ennemis proches
+Texte(65,0,"lorsqu'il atterit après un saut
+Texte(80,0,"2. Rififi :
+Texte(95,0,"Edgar se soigne pour 25% des 
+Texte(110,0,"dégâts qu'il inflige
+Pause 
 EffDess
 Texte(­1,0,10,"Gadgets
 Texte(20,0,"1. Chargeur induction : 
-Texte(40,0,"Le super d'Edgar recharge
-Texte(60,0,"525% plus vite (5secs)
-Texte(40,20,"2. Proctections :
-Texte(40,40,"Edgar reçoit un
-Texte(40,60,"bouclier qui bloque
-Texte(40,80,"jusqu'à 2000 points
-Texte(40,100,"de dégâts (il
-Texte(40,120,"s'affaiblit
-Texte(40,140,"avec le temps)
+Texte(35,0,"Le super d'Edgar recharge 525%
+Texte(50,0,"plus vite (5secs)
+Texte(65,0,"2. Proctections :
+Texte(80,0,"Edgar reçoit un bouclier qui bloque
+Texte(95,0,"jusqu'à 2000 points de dégâts (il
+Texte(110,0,"s'affaiblit avec le temps)
 Pause 
 Goto E
 
@@ -1004,10 +1001,10 @@ EffÉcran
 Menu("Mortis","Informations",4G,"Pouvoirs star",4H,"Gadgets",4I,"RETOUR",M
 Lbl 4G
 EffÉcran
-Disp "XXXX PV
+Disp ".... PV
 Disp "Attaque : 
 Disp "Super : vol de chauves-
-Disp "souris (XXXX dégats)
+Disp "souris (.... dégats)
 Pause 
 Goto 29
 Lbl 4H
