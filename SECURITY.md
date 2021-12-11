@@ -19,7 +19,8 @@ currently being supported with this project (security updates) :
 
 Beware of OS > 5.5 !
 
-Many programs, such as Oiram CE, Geometry CE and more are written in ASM/C or ICE
+Many programs, such as Oiram CE, Geometry CE and more are written in ASM/C or ICE.
+
 However, due to an irresponsible act of a Mathematics teacher, Texas Instruments reacted by removing the management of such programs since the 5.5.1 update.
 
 To know the version (OS) of your calculator, do the following :
@@ -38,7 +39,7 @@ The latest OS of the TI-83 Premium CE is 5.7.0.
 
 
 ## Reporting a Vulnerability
-								-Brawl Stars CE-
+							-Brawl Stars CE- (v.1.5)
 
 By members on https://tiplanet.org
 
